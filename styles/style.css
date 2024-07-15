@@ -207,7 +207,7 @@ ol {
   background-color: transparent; 
   min-inline-size: 225px;
   min-block-size: 27px;
-  color: rgba(255, 255, 255, 0.70); 
+  color: #fff; 
   font-family: 'Fira Sans Condensed', sans-serif; /* Важно указать fallback шрифт */
   font-size: 18px; 
   font-weight: 400; 
@@ -224,9 +224,7 @@ ol {
 }
 
 .search-form__textfield:focus {
-  border: none;
-  outline-offset: 2px;
-  outline: 1px solid rgba(255, 255, 255, 1); 
+  outline: none; /*обнулила свойство outline*/
 }
 
 /* 5.5 Чек-боксы в лин*/
