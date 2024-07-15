@@ -113,6 +113,7 @@ ol {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
+  padding: 2 3 4 2; /*Отступ как в макете 2 px*/
 }
 
 /*2.5 Задать размеры .content__video-card-thumbnail и замостить в них изображение:*/
