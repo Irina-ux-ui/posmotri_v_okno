@@ -327,7 +327,7 @@ ol {
 
 /* 4.3 Стили для .content__card-link */
 .content__card-link {
-  display: block; /* Делаем ссылку блочным элементом Шаг.7*/
+  display: block; 
   text-decoration: none;
   color: rgba(255, 255, 255, 1);
   margin: 2px;
