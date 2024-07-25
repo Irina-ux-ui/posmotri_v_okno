@@ -70,7 +70,7 @@ ol {
   block-size: 298px;
   overflow-y: auto;
   /* 3.1 Позиционирование прелоадеров*/
-  position: relative;
+  position: relative; 
   
 }
 
